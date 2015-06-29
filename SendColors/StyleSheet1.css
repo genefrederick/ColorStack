@@ -1,0 +1,58 @@
+﻿body {
+    font-family:Arial;
+}
+
+.left {
+    float:left;
+}
+
+.double-border {
+    border:double;
+    padding:15px;
+}
+
+#sentcolorsholder,#receivedcolorsholder {
+    width:175px;
+    float:left;
+    margin-left:175px;
+    font-size:small;
+}
+
+.Red,.Orange,.Yellow,.Green,.Blue,.Indigo,.Violet,.title {
+    position:relative;
+    padding:10px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.Red {
+    background-color:#d10000;
+    color:white;
+}
+
+.Orange {
+    background-color:#ff6622;
+}
+
+.Yellow {
+    background-color:#ffda21;
+}
+
+.Green {
+    background-color:#33dd00;
+}
+
+.Blue {
+    background-color:#1133cc;
+    color:white;
+}
+
+.Indigo {
+    background-color:#220066;
+    color:white;
+}
+
+.Violet {
+    background-color:#330044;
+    color:white;
+}
